@@ -1,0 +1,16 @@
+{
+  "name": "ruxe-proxy",
+  "version": "1.0.0",
+  "description": "Proxy para RUXE Web App",
+  "main": "proxy.js",
+  "scripts": {
+    "start": "node proxy.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.7"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
